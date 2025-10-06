@@ -1,0 +1,64 @@
+{
+  "oak_planks": {
+    "output": 4,
+    "ingredients": {
+      "oak_log": 1
+    }
+  },
+  "stick": {
+    "output": 4,
+    "ingredients": {
+      "oak_planks": 2
+    }
+  },
+  "crafting_table": {
+    "output": 1,
+    "ingredients": {
+      "oak_planks": 4
+    }
+  },
+  "chest": {
+    "output": 1,
+    "ingredients": {
+      "oak_planks": 8
+    }
+  },
+  "oak_stairs": {
+    "output": 4,
+    "ingredients": {
+      "oak_planks": 6
+    }
+  },
+  "torch": {
+    "output": 4,
+    "ingredients": {
+      "stick": 1,
+      "coal": 1
+    }
+  },
+  "furnace": {
+    "output": 1,
+    "ingredients": {
+      "cobblestone": 8
+    }
+  },
+  "iron_ingot": {
+    "output": 1,
+    "ingredients": {
+      "iron_ore": 1
+    }
+  },
+  "iron_pickaxe": {
+    "output": 1,
+    "ingredients": {
+      "iron_ingot": 3,
+      "stick": 2
+    }
+  },
+  "glass": {
+    "output": 1,
+    "ingredients": {
+      "sand": 1
+    }
+  }
+}

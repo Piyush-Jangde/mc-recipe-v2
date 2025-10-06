@@ -1,0 +1,9 @@
+# Dependencies folder
+/node_modules
+
+# Database files
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
