@@ -12,6 +12,10 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "electron": "^38.2.1"
+    "electron": "^38.2.1",
+    "electron-rebuild": "^3.2.9"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1"
   }
 }
